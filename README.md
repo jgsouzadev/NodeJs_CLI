@@ -9,6 +9,7 @@ use `node index <options>`
 Options and Params
 
 `-n, --nome [value], Nome do heroi`<br>
+a
 `-p, --poder [value], Poder do heroi`<br>
 `-i, --id [value], Id do usuario`<br>
 `-c, --cadastrar, Cadastrar heroi`<br>
